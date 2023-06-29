@@ -2,3 +2,4 @@
 
 ## branch name = squash_merge
 
+これはsquash mergeによるマージの確認テストです。
